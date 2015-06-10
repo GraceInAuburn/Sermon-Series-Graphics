@@ -23,7 +23,6 @@ Dimensions and examples of sermon series graphics.
 - Social Media (Banners):
  - [Facebook](https://www.facebook.com/help/125379114252045)                     (851 x 315px)
  - [Twitter](https://support.twitter.com/articles/127871-customizing-your-profile)                      (1500 x 500px)
- - Instagram                    (600 x 600px)
  - [YouTube](https://support.google.com/youtube/answer/2972003?hl=en)                      (2560  x 1440px)
 
 # Video
