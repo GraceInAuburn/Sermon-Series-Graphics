@@ -9,6 +9,7 @@ Dimensions and examples of sermon series graphics.
 - Postcard Mailer
 - Word of Grace CD Cover
 - Newspaper Advertisement       (3.167" x 4")
+
 # Web
 - Web:
  - Homepage Banner              (960 x 350px)
