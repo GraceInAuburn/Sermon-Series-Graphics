@@ -27,8 +27,8 @@ Dimensions and examples of sermon series graphics.
 
 # Video
 - PPT
- - Promo PowerPoint with Text    (1920 x 1080px)
- - Sermon Cover PowerPoint       (1920 x 1080px)
- - Sermon Secondary PowerPoint   (1920 x 1080px)
+ - Promo PowerPoint with Text    (1920 x 1080px) or ultrawide (2560 x 720px)
+ - Sermon Cover PowerPoint       (1920 x 1080px) or ultrawide (2560 x 720px)
+ - Sermon Secondary PowerPoint   (1920 x 1080px) or ultrawide (2560 x 720px)
 - Premiere Pro
  - Video PowerPoint lower 3rd    (1920x360px)
