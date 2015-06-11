@@ -11,6 +11,8 @@ Dimensions and examples of sermon series graphics.
 - Newspaper Advertisement       (3.167" x 4")
 
 # Web
+Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
+
 - Web:
  - Homepage Banner              (960 x 350px)
  - Single Page banner           (960 x 250px)
