@@ -34,3 +34,16 @@ Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
  - Sermon Secondary PowerPoint   (1920 x 1080px) or ultrawide (2560 x 720px)
 - Premiere Pro
  - Video PowerPoint lower 3rd    (1920x360px)
+
+# Stock image resources
+The following sites allow commercial usage.
+ - http://www.pexels.com/
+ - http://freelyphotos.com/
+ - http://www.lifeofpix.com/
+ - http://snapographic.com/
+ - http://skitterphoto.com/
+ - http://pixabay.com/
+ - http://nos.twnsnd.co/
+ - http://jeshoots.com/
+ - http://publicdomainarchive.com/
+ - https://picjumbo.com/
