@@ -36,7 +36,7 @@ Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
  - Video PowerPoint lower 3rd    (1920x360px)
 
 # Stock image resources
-The following sites allow commercial usage.
+The following sites allow commercial usage:
  - http://www.pexels.com/
  - http://freelyphotos.com/
  - http://www.lifeofpix.com/
