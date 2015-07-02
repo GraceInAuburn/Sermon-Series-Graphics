@@ -47,3 +47,9 @@ The following sites allow commercial usage:
  - http://jeshoots.com/
  - http://publicdomainarchive.com/
  - https://picjumbo.com/
+
+# Font resources
+The following sites allow commercial usage:
+ - http://www.fontsquirrel.com/
+ - https://www.google.com/fonts
+ - https://typekit.com/fonts (Included in Creative Cloud)
