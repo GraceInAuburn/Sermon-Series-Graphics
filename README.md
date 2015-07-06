@@ -47,6 +47,7 @@ The following sites allow commercial usage:
  - http://jeshoots.com/
  - http://publicdomainarchive.com/
  - https://picjumbo.com/
+ - http://www.creationswap.com/
 
 # Font resources
 The following sites allow commercial usage:
