@@ -20,7 +20,7 @@ Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
 - Social Media ([shares](https://blog.bufferapp.com/ideal-image-sizes-social-media-posts)):
  - [Facebook](https://developers.facebook.com/docs/sharing/best-practices)          (1200 x 628px)
  - [Twitter](https://dev.twitter.com/cards/types/summary-large-image)               (1024 x 512px)
- - Instagram                    (640 x 640px)
+ - Instagram                    (1080 x 1080px)
  - Pinterest                    (735 x 1102px)
 - Social Media (Banners):
  - [Facebook](https://www.facebook.com/help/125379114252045)                        (851 x 315px)
