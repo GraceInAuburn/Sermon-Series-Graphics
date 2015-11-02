@@ -14,9 +14,9 @@ Dimensions and examples of sermon series graphics.
 Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
 
 - Web:
- - Homepage Banner              (960 x 350px)
- - Single Page banner           (960 x 250px)
- - e-Loop                       (200 x 118px)
+ - Homepage Background          (1840 x 1228px)
+ - Single Page banner           (2560 x 853px)
+ - e-Loop (Template Available)  (200 x 118px)
 - Social Media ([shares](https://blog.bufferapp.com/ideal-image-sizes-social-media-posts)):
  - [Facebook](https://developers.facebook.com/docs/sharing/best-practices)          (1200 x 628px)
  - [Twitter](https://dev.twitter.com/cards/types/summary-large-image)               (1024 x 512px)
