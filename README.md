@@ -2,7 +2,7 @@
 Dimensions and examples of sermon series graphics.
 
 # Print
-- Bulletin Header               (8" x 2")
+- Bulletin Header               (8" x 1.5")
 - Loop Header                   (5" x 1.5")
 - Lobby Wall Mural              (48" x 176")
 - Lobby Vertical Banners        (24" x 70")
