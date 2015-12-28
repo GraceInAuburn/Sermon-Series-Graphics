@@ -27,6 +27,10 @@ Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
  - [Twitter](https://support.twitter.com/articles/127871-customizing-your-profile)  (1500 x 500px)
  - [YouTube Read the link for the specifics](https://support.google.com/youtube/answer/2972003?hl=en)               (2560  x 1440px)
 
+# Outdoors
+- Church Sign (128 x 64px)
+ - Yes it's that small.
+
 # Video
 - PPT
  - Promo PowerPoint with Text    (1920 x 1080px) or ultrawide (2560 x 720px)
