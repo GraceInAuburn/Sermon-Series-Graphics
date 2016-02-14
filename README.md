@@ -7,7 +7,6 @@ Dimensions and examples of sermon series graphics.
 - Lobby Wall Mural              (48" x 176")
 - Lobby Vertical Banners        (24" x 70")
 - Postcard Mailer
-- Word of Grace CD Cover
 - Newspaper Advertisement       (3.167" x 4")
 
 # Web
