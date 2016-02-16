@@ -23,9 +23,11 @@ Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
  - Instagram                    (1080 x 1080px)
  - Pinterest                    (735 x 1102px)
 - Social Media (Banners):
- - [Facebook](https://www.facebook.com/help/125379114252045)                        (851 x 315px)
+ - [Facebook](https://www.facebook.com/help/125379114252045)                        (851 x 315px) on mobile 640x360 crop.
+   - [Template](http://www.twelveskip.com/tutorials/facebook/1291/facebook-new-cover-size-template)
  - [Twitter](https://support.twitter.com/articles/127871-customizing-your-profile)  (1500 x 500px)
  - [YouTube Read the link for the specifics](https://support.google.com/youtube/answer/2972003?hl=en)               (2560  x 1440px)
+    - [Template](https://storage.googleapis.com/support-kms-prod/723CF6954B9CC9B50AD58BCC2F5F14825FF4)
 
 # Outdoors
 - Church Sign (128 x 64px)
