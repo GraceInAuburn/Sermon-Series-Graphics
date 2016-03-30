@@ -2,6 +2,7 @@
 Dimensions and examples of sermon series graphics.
 
 # Print
+Preferably a CMYK file from illustrator.
 - Bulletin Header               (8" x 1.5")
 - Loop Header                   (5" x 1.5")
 - Lobby Wall Mural              (44" x 123") Actually 44x119 but we overscan so there is room to cut.
